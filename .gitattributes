@@ -1,2 +1,2 @@
-*.php linguist-language = php
-*.css linguist-language = css
+*.php linguist-language=php
+*.css linguist-language=css
